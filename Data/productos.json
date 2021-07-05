@@ -1,0 +1,50 @@
+[
+   {
+     "id": 1,
+      "nombre": "Lemon Pie",
+      "precio": 600,
+      "destacado": true,
+      "descripcion":"El lemon pie es una tarta dulce muy común y clásica. Esta compuesta por una base de masa, una crema al limón y decorada con merengue italiano en la superficie.",
+      "imagen": "../img/lemonpie.jpg"
+   },
+   {
+     "id": 2,
+      "nombre": "Cabsha",
+      "precio": 750,
+      "destacado": true,
+      "descripcion":"Chocolate y dulce de leche, una combinación que no puede fallar.",
+      "imagen": "../img/cabsha.jpg"
+   },
+   {
+     "id": 3,
+      "nombre": "Tarta de Frutilla",
+      "precio": 750,
+      "destacado": true,
+      "descripcion":"La tarta de frutillas es una clásica torta y con ingredientes que por lo general gustan a la mayoría. Está compuesta por una delicada masa de base, rellena con una suave crema diplomática y decorada en la superficie con frutillas. Es una riquísima y fresca receta, ideal para el verano.",
+      "imagen": "../img/Tarta-de-frutillas.jpg"
+   },
+   {
+     "id": 4,
+      "nombre": "Desayuno Ejecutivo",
+      "precio": 650,
+      "destacado": true,
+      "descripcion":"Contiene: Cafe + Te + Leche en polvo, 2 Mini tartas a eleccion, Tostadas, Mermerala, Manteca, Queso, Jugo de frutas, Galletas, Alfajor triple y Bandeja de madera",
+      "imagen": "../img/ejecutivo.jpg"
+   },
+   {
+     "id": 5,
+      "nombre": "Desayuno Sorpresa",
+      "precio": 800,
+      "destacado": true,
+      "descripcion":"Contiene: 2 mini tartas (pueden ser de Cabsha, de frutilla o lemon pie), Taza repleta de dulces, Bombones bon o bon, Chocolate Milka, Alfajor Águila, Mini alfajorcitos de Maicena, Jugo + Té + Café +Mateca y Magdalenas",
+      "imagen": "../img/sorpresa.jpg"
+   },
+   {
+     "id": 6,
+      "nombre": "Desayuno Economico",
+      "precio": 650,
+      "destacado": true,
+      "descripcion":"Contiene: Cafe + Te + Leche en polvo, Galletas, Sand. de miga, Alfajor, Jugo en caja y 1 Mini tarta a eleccion",
+      "imagen": "../img/economico.jpg"
+   }
+]

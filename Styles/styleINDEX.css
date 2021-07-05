@@ -1,0 +1,74 @@
+.portada {
+    color:red;
+    
+    font-family: 'Monoton', cursive;
+    font-size: 6rem;
+    text-shadow: 4px 4px 0px black; 
+    height: 250px;
+    background-image: url(../img/portada.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0, 0.70);
+    background-blend-mode: darken;
+}
+
+a{
+    font-size: 20px;
+    color: black;
+}
+
+
+h1{
+    font-size: 4rem;
+}
+
+.cover-small{
+   height: 200px;
+   background-blend-mode: normal;
+   background-size: cover;
+}
+
+.card-title{
+    min-height: 3rem;
+}
+
+body{
+    height: 850px;
+    font-family: 'Lobster', cursive;
+    background-image: url(../img/body.jpg);
+    background-size: auto;
+    background-position: center;
+    background-color: rgba(0,0,0, 0.50);
+    background-blend-mode: darken;
+}
+
+.card{
+    margin-top: 100px;
+    box-shadow: 3px 3px 0px black;
+    margin-bottom: 100px;
+    border:none;
+    background-color: whitesmoke;
+    
+}
+
+.btn-primary{
+    background-color: red;
+    border-color:red
+}
+
+.pie{
+    color:red;
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    height: auto;
+    background-color: black;
+    text-align: center;
+}
+
+#red{
+    color: red;
+}
+
+#red:hover{
+    color: white;
+}
